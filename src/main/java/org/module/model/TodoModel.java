@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Todo {
+public class TodoModel {
 
     private Long id;
     private String title;
