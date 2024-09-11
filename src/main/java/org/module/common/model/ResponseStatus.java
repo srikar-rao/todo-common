@@ -1,4 +1,4 @@
-package org.module.model;
+package org.module.common.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
